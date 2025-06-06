@@ -1,0 +1,27 @@
+1. Створити в html div з класом ball
+2. CSS:
+        body {
+                темний фононовий колір;
+         }
+        .ball {
+        position:absolute;
+        ширина: 100px;
+        висота: 100px;
+        фоновий колір: #CC3F85;
+        заокруглення кутів: 100%;
+        виклик анімації: dws-bounce 3s linear infinite, 
+          dws-moveLeft 25s linear infinite alternate;
+        }
+        @keyframes dws-bounce {/*  рух вверх і в низ */
+            0% { bottom: 100%; }
+            25% { bottom:0; ширина:100px; висота:100px; фоновий колір: #CC3F85;}
+            30% { bottom:0; ширина:110px; висота:25px; фоновий колір: red;}
+            35% { bottom:0; ширина:100px; висота:100px; }
+            70% { bottom:100%; фоновий колір: #CC3F85;}
+            100% { bottom:100%; }
+        }
+
+        @keyframes dws-moveLeft { /*  рух в сторону*/
+            from {left: 0;}
+            to   {left: 100%;}
+        } 

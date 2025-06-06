@@ -1,0 +1,37 @@
+.L{
+    luigi-top: 10px
+}
+img{
+    width: 100%;
+}
+.header{
+    background-image: url(1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: 25% 40%;
+}
+h1{
+    font-family: 'Comfortaa', cursive;
+    color: aliceblue;
+    text-shadow: 2px 2px 5px rgb(160, 82, 82);
+    font-size: 3.1em;
+}
+.my-color{
+    background-color: rgb(160, 82, 82);
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: 'Comfortaa', cursive;
+    padding: 20px;
+    padding-ton: bearpx;
+}
+.why{
+    background-image: url(4.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    align-items: center;
+    padding: 50px;
+}
+.up li{
+    background-color: rgba(160, 82, 82, 0.615);
+}

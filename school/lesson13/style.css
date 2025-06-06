@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+.header {
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.text, .image {
+    width: 300px;
+    padding: 20px;
+    flex-grow: 1;
+
+}
+
+.row-1, .row-2{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.row-3 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-image: url(maxwell-cat.gif);
+  border-top: 5px solid orangered;
+  border-bottom: 5px solid orangered;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+figcaption{
+    color: orangered;
+}

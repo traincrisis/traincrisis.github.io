@@ -1,0 +1,15 @@
+1. border-radius
+2. background-color
+3. font-size
+4. <table>
+5. <p>
+6. <h3>
+7. color
+8. flex: justify -
+9. text-align: center
+10. <img>
+11. width
+12. height
+13. <a href> -
+14. block-shadow
+15. text-shadow -

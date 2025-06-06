@@ -1,0 +1,38 @@
+Шрифт:
+    font-family: 'Montserrat', sans-serif;
+
+
+Фон першого блоку:
+    background: linear-gradient(to right bottom, #483d5f, #2a2240);
+
+
+Стилі для кнопки:
+
+button{
+   background-color: #ed9619;
+   font-weight: 900;
+   border-radius: 20px;
+   padding: 10px 20px;
+   text-align: center;
+   border: 0;
+   color: white;
+}
+
+Колір третьої смужки:
+    background-color: #efecf4;
+
+
+Колір останнього блоку:
+    background-color: #201b2d;
+
+
+/* Стилі для великих екранів (дисплей максимум 1199 пікселів) */
+@media (max-width: 1199px) {}
+
+/* Стилі для маленьких екранів (дисплей максимум 767 пікселів) */
+@media (max-width: 991px) {  
+    
+}
+
+/* Стилі для дуже маленьких екранів (дисплей максимум 575 пикселів) */
+@media (max-width: 575px) {}

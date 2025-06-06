@@ -1,0 +1,36 @@
+h1{
+    font-family: "Kablammo", system-ui;
+    text-align: center;
+    color: blue;
+    text-shadow: 0px 0px 5px rgb(100, 100, 230);
+}
+
+a{
+    font-family: "Kablammo", system-ui;
+    text-decoration: none;
+    color: rgb(31, 31, 100);
+    transition: 0.5s;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+}
+
+.item{
+    text-align: center;
+    background-color: #9fd0dd;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-ton: 0px
+}
+
+img{
+    width: 60%;
+    margin: 20px auto;
+    display: block;
+}
+
+a:hover{
+    letter-spacing: 5px;
+}

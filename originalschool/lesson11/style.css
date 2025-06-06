@@ -1,0 +1,30 @@
+.anim{
+    width: 300px;
+    background-color: yellow;
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    padding-ton: 10%;
+    animation-name: by;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes by {
+    0%{
+        background-color: green
+    }
+    50%{
+        background-color: orange;
+        border-radius: 50%;
+        transform: scaleX(9.5) rotate(360deg);
+    }
+    100%{
+        background-color: red;
+    }
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

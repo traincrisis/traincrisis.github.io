@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p {
+  animation-duration: 5s;/*час виконання анімації */
+  animation-name: slidein; /* "виклик" анімації по власному імені*/
+  animation-iteration-count: infinite; /*безперервне виконання*/
+  animation-direction: alternate;/* щоб текст "їхав" назад*/
+  /* animation: 3s infinite alternate slideIn;
+    скорочений запис всього, що вище */
+}
+.text{
+    overflow: hidden;/* приховуємо те, що вилазить за межі блока */
+    width: 80%;
+    height: 100px;
+    background: rgb(236, 233, 233);
+    padding: 10px;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;/*щоб текст був за межами контейнера*/
+    width: 300%; /*Щоб він був в один рядочок*/
+  }
+  75% {/*   елемент, при виконанні 75% анімації,*/
+    font-size: 150%;/* повинен мати збільшений шрифт на 50% */
+    margin-left: 25%;/* лівий маргін 25%*/
+    width: 150%;/*  і ширину 150%*/
+    }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+    </style>
+</head>
+<body>
+    <div class="text">
+        <p>The Caterpillar and Alice looked at each other for some time in silence:
+        at last the Caterpillar took the hookah out of its mouth, and addressed
+        her in a languid, sleepy voice.</p>
+    </div>
+    
+</body>
+</html>

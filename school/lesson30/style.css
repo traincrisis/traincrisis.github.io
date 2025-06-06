@@ -1,0 +1,45 @@
+img{
+    width: 100%;
+}
+.navbar{
+    background: linear-gradient(to right, rgb(160, 142, 198), white, rgb(6, 142, 255));
+}
+.bg-1{
+    background: linear-gradient(to bottom, lightblue, white);
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-ton: 70px;
+}
+.my-card-1 img{
+    width: 40%;
+}
+.my-card-2 img{
+    width: 40%;
+}
+.my-card-1,.my-card-2{
+    text-align: center;
+    padding: 10px;
+}
+.azaza{
+    width: 80%;
+}
+.bg-list{
+    background: linear-gradient(to right, blue, lightblue);
+    border-radius: 15px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bg-list p{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.my-list{
+    list-style-image: url(list-img.png);
+}
+footer{
+    background: linear-gradient(to right, violet, white, blue);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    padding-ton: 30px;
+}

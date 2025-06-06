@@ -1,0 +1,22 @@
+td, table, th{
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 10px;
+    padding-ton: 15px;
+}
+table{
+
+    margin:30px  auto;
+}
+body{
+    background-image: url(images.jpg);
+    color: wheat;
+}
+
+.content{
+    background-color: lemonchiffon;
+    width: 650px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 0px 0px 20px gold, 0px 0px 0px white;
+}

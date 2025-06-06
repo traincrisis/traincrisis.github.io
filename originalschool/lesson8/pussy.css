@@ -1,0 +1,18 @@
+td, table, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    padding-ton: 15px;
+}
+
+body{
+    background-image: url(wooden.jpg);
+}
+
+.content{
+    background-color: lemonchiffon;
+    width: 650px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 0px 0px 20px gold, 0px 0px 0px white;
+}

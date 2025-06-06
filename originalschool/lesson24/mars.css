@@ -1,0 +1,47 @@
+img{
+    width: 100%;
+}
+.header{
+    background-image: url(fon.png);
+}
+.logo-1{
+    font-family: "Poiret One", sans-serif;
+    font-size: 7rem;
+    color: coral;
+    line-height: 0.8;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+.logo-2{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.5rem;
+    color: coral;
+}
+body{
+    background-color: black;
+    color: burlywood;
+}
+h2{
+    font-family: "Cormorant Garamond", serif;
+}
+p{
+    font-family: "Exo 2", sans-serif;
+}
+.card-header{
+    background-color: #f5a454;
+}
+.card{
+    background-color: #6a3805;
+    color: white;
+    height: 100%;
+    box-shadow: 0px 0px 10px 8px #f5a454;
+}
+.footer{
+    background-color: #6a3805;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.fa-brands{
+    color: burlywood;
+    font-size: 2em;
+}

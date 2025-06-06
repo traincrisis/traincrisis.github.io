@@ -1,0 +1,74 @@
+Підключення шрифту:
+
+
+
+ <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+
+Для іконок:
+<script src="https://kit.fontawesome.com/38f75088e1.js" crossorigin="anonymous"></script>
+
+
+Шрифт:
+    font-family: 'Montserrat', sans-serif;
+
+
+Фон першого блоку:
+    background: linear-gradient(to right bottom, #483d5f, #2a2240);
+
+
+Стилі для кнопки:
+
+button{
+   background-color: #ed9619;
+   font-weight: 900;
+   border-radius: 20px;
+   padding: 10px 20px;
+   text-align: center;
+   border: 0;
+   color: white;
+}
+
+
+для відступів:
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+
+
+Колір третьої смужки:
+    background-color: #efecf4;
+
+
+Колір останнього блоку:
+    background-color: #201b2d;
+
+
+
+
+
+Я навчаюся верстати веб-сайти
+І роблю це феєрично
+Я проходжу курси і стаю краще кожного тижня. Це так цікаво! Дізнаватися щось нове і розвиватися - це саме те, що потрібно!
+
+Дізнатися більше
+
+Для чого це мені?
+
+Знати код
+Мені подобається писати актуальний і гарний код
+
+
+Мати цікаве заняття
+Я хочу займатися в житті тим - що цікаво
+
+
+Бути щасливим
+Створювати креативні сайти і розвиватися
+
+Я буду вам писати
+Дізнатися більше
+Всі права захищено

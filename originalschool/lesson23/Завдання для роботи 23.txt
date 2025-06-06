@@ -1,0 +1,58 @@
+Головна
+Властивості
+Про нас
+Блог
+
+Знайдіть ідеальний дім для своєї сім'ї
+Купівля будинку – це досвід, який змінює життя. Довірте вашому агенту з нерухомості змінити ваше життя.
+
+
+Наші партнери
+
+Популярні варіанти
+
+
+Capital hill residence
+
+Picket Fence Realty
+
+Banyon Tree Realty
+
+Corsair Real Estate
+
+Sequoia Real Estate
+
+Strive Partners Realty
+   
+Всі права захищено законом 2023
+
+
+
+
+
+Клас для кнопки - " btn-primary btn "
+
+
+Шрифт:
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+
+font-family: 'Playfair Display', serif;
+
+
+Стилі css для тексту в карточках:
+	    box-shadow: 0px 10px 3px 5px rgb(191, 198, 245);
+            letter-spacing: 0.15em;
+            text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
+            font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic,
+                "AppleGothic", sans-serif;
+
+
+
+Іконки (font awesome):
+
+<script src="https://kit.fontawesome.com/38f75088e1.js" crossorigin="anonymous"></script>
+

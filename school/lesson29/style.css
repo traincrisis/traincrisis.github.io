@@ -1,0 +1,75 @@
+img{
+    width: 100%;
+}
+.logo{
+    width: 50px;
+}
+.nav-link{
+    color: black;
+}
+.navbar{
+    background-color: #a6d2d5;
+}
+.first{
+    height: 400px;
+    background-image: url(black-on-white_2.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    align-items: center;
+    color: aliceblue;
+}
+body{
+    font-family: 'Yeseva One', cursive;
+}
+.bg-blue{
+    background-color: #a6d2d5;
+    padding: 30px;
+}
+.bg-img{
+    background-image: url(collage.jpg);
+    background-size: cover;
+    padding: 30px;
+}
+blockquote{
+    background-color: #ffffffcc;
+    padding: 15px;
+}
+.third{
+    background-image: url(phone-3.jpg);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-size: cover;
+    background-position: 50% 50%;
+    align-items: center;
+    background-attachment: fixed;
+}
+.four{
+    background-color: #a6d2d5;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.fifth{
+    background-image: url(forest.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.div-lorem{
+    background-color: #ffffff9d;
+    padding: 30px;
+    margin: 30px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.last{
+    background-color: black;
+}
+.last-text{
+    background-color: rgba(255, 255, 255, 0.713);
+    margin: 30px;
+    padding: 30px;
+    color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

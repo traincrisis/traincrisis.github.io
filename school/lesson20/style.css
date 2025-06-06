@@ -1,0 +1,136 @@
+body {
+    
+}
+
+img {
+    width: 100%;
+}
+
+.logo-img{
+    width: 100px;
+}
+
+.logo-text{
+    font-family: "Lobster", serif;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.aside{
+    background-color: #f8f0db;
+    width: 200px;
+    flex-grow: 1;
+}
+
+.main{
+    background-color: #deeaff;
+    width: 300px;
+    flex-grow: 10;
+}
+
+.father{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menu{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.menu-item{
+    background-color: #dddddd;
+    margin: 7px 0;
+    padding: 15px;
+    transition: 0.2s;
+}
+
+.menu-item:hover{
+    background-color: #474747;
+    color: #deeaff;
+}
+
+.text{
+    padding: 15px;
+    margin: 15px;
+    border-left: 1px solid black;
+}
+
+.bold{
+    text-decoration: underline;
+    font-weight: 900;
+}
+
+.choice{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.pizza{
+    width: 165px;
+    height: 128px;
+    margin: 15px;
+    border: 1px solid black;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 15px;
+    color: wheat;
+}
+
+.pz1{
+    background-image: url(img/pizza1.jpg);
+}
+
+.pz2{
+    background-image: url(img/pizza2.jpg);
+}
+
+.pz3{
+    background-image: url(img/pizza3.jpg);
+}
+
+.pz4{
+    background-image: url(img/pizza4.jpg);
+}
+
+.pz5{
+    background-image: url(img/pizza5.jpg);
+}
+
+.pz6{
+    background-image: url(img/pizza6.jpg);
+}
+
+.pz7{
+    background-image: url(img/pizza7.jpg);
+}
+
+.pz8{
+    background-image: url(img/pizza8.jpg);
+}
+
+.pz9{
+    background-image: url(img/pizza9.jpg);
+}
+
+.about{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.about div{
+    width: 300px;
+    flex-grow: 1;
+    padding: 70px;
+}
+.circle{
+    background-color: red;
+    border-radius: 50%;
+    padding: 5px;
+}

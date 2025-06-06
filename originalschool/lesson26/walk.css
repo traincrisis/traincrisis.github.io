@@ -1,0 +1,38 @@
+img{
+    width: 100%;
+}
+.logo{
+    width: 70px;   
+}
+.row{
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+.big-photo{
+    background-image: url(banner.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: 40% 50%;
+    color: azure;
+    text-align: right;
+}
+.hut{
+    height: 300px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.503), rgba(0, 0, 0, 0.7)), url(the-hut-bg.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    color: white;
+}
+.area{
+    height: 300px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.503), rgba(0, 0, 0, 0.7)), url(the-area.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    color: white;
+}
+.footer{
+    color: white;
+    background-color: #5B6460;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

@@ -1,0 +1,72 @@
+.main{
+    width: 200px;
+    height: 430px;
+    padding-top: 100px;
+    margin: 0 auto;
+    background-color: black;
+
+}
+.main>div{
+    height: 15px;
+    width: 15px; 
+    margin: 10px auto;
+    border-radius: 50%;
+    background-color: beige;
+}
+@keyframes right{
+	0%{
+        transform: translateX(-15px);
+        background-color: beige;
+    }  
+	50%{
+        transform: translateX(15px);
+        background-color: rgb(227, 227, 119);
+    }
+	100%{
+        transform: translateX(-15px);
+        background-color: rgb(211, 211, 53);
+    }
+}
+@keyframes left{
+	0%{
+        transform: translateX(15px);  
+        background-color: beige;
+    } 
+	50%{
+        transform: translateX(-15px);
+        background-color: rgb(235, 204, 27);
+    }
+        
+	100%{
+         transform: translateX(15px);
+         background-color: rgb(223, 205, 101);
+    }
+}
+
+.ball1{
+    animation:  right 1s ease-in infinite;
+}
+
+.ball2{
+    animation:  left 1.1s ease-in infinite;
+}
+
+.ball3{
+    animation:  right 1.05s ease-in infinite;
+}
+
+.ball4{
+    animation:  left 1.15s ease-in infinite;
+}
+
+.ball5{
+    animation:  right 1.1s ease-in infinite;
+}
+
+.ball6{
+    animation:  left 1.05s ease-in infinite;
+}
+
+.ball7{
+    animation:  right 1s ease-in infinite;
+}

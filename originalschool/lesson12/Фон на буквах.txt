@@ -1,0 +1,27 @@
+1. В HTML
+    Створити дів і в ньому в h2 зробити напис
+2. В CSS:
+    Буде потрібно зробити два правила 
+    (для діву і  h2) і одну анімацію
+
+       дів{
+            темний фоновий колір
+            display: inline-block;
+        }
+        заголовок{
+            розмір букв: 7rem;
+            зробити зовнішні відступи 0
+            колір букв: rgba(12, 12, 12, 0.5);
+            фонова картинка, вона буде рухатися на буквах: url(123.png);
+            -webkit-background-clip: text; - це щоб фон лягав на букви, а не як звичайний фон
+            виклик анімації: fon-move  5s infinite linear;
+        }
+        тут-треба-щось-написати-:) fon-move {
+            в цій анімаціїї ми отримуємоефокт руху
+            завдяки зміщенню фону командою background-position
+            
+            0%{ background-position: left 0 top 80px;  }
+            35%{  background-position: left 800px top -60px;  }
+            75%{  background-position: left 1600px top -70px ;  }
+            100%{  background-position: left 2200px top 80px ;  }
+        }

@@ -1,0 +1,23 @@
+h1{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    width: 30%;
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+a:hover{
+    color: black;
+    text-shadow: 0px 0px 3px yellow;
+}

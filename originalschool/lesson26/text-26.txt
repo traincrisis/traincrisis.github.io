@@ -1,0 +1,71 @@
+ДОМАШНЯ
+ХАТИНКА
+ТЕРИТОРІЯ
+ЗАМОВЛЕННЯ
+ПРО НАС
+Знайдіть своє натхнення серед природи
+Номери
+Три ексклюзивні та комфортабельні yjvthb Løvtag, Et, Ro_Ly, спроектовані архітектором Сігурдом Ларсеном. Усі вони мають відкритий простір з двоспальним ліжком, двоспальним диваном-ліжком, кухнею, окремим туалетом і душем на відкритому повітрі. На даху, оточена кронами дерев, розташована тераса, яка знаходиться близько дев’яти метрів над землею. Котеджі побудовані навколо високих старих дерев, які проходять через весь котедж від підлоги до стелі.
+
+
+
+
+
+Хатинка
+
+Ззовні
+Три ексклюзивні та комфортабельні yjvthb Løvtag, Et, Ro_Ly, спроектовані архітектором Сігурдом Ларсеном. Усі вони мають відкритий простір з двоспальним ліжком, двоспальним диваном-ліжком, кухнею, окремим туалетом і душем на відкритому повітрі. На даху, оточена кронами дерев, розташована тераса, яка знаходиться близько дев’яти метрів над землею.
+
+В середині
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum optio aspernatur harum cumque! Cupiditate porro culpa nam, alias quo ipsum aliquam dignissimos magnam impedit illum odio sunt sed voluptas beatae autem quaerat numquam distinctio? Voluptatum placeat magni accusamus iure deserunt consequuntur voluptate dolore soluta explicabo, fugit eos quas quis deleniti necessitatibus eveniet facilis rem numquam harum amet quaerat nisi. Rem molestiae quisquam incidunt. Ullam iure magni maiores nostrum saepe, ratione necessitatibus! Quae quibusdam esse debitis cupiditate id magni molestiae repellendus error recusandae perspiciatis corporis laborum aperiam ipsa facilis omnis quidem voluptates vero quo rerum explicabo, minima vitae nisi blanditiis enim.
+
+
+
+Практичність
+Три ексклюзивні та комфортабельні yjvthb Løvtag, Et, Ro_Ly, спроектовані архітектором Сігурдом Ларсеном. Усі вони мають відкритий простір з двоспальним ліжком, двоспальним диваном-ліжком, кухнею, окремим туалетом і душем на відкритому повітрі. На даху, оточена кронами дерев, розташована тераса, яка знаходиться близько дев’яти метрів над землею.
+
+Територія
+
+Вестерборг
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo expedita ipsam alias inventore deserunt quas similique reprehenderit, reiciendis minima soluta autem deleniti nam rerum sapiente facilis! Ad tenetur beatae iusto aliquam sit quia voluptatum optio ratione ipsa. Iste, eius nemo cupiditate maxime, ipsam libero eligendi totam ea maiores facere voluptatibus accusamus hic, quo reiciendis molestias iure blanditiis cumque! Dolores esse aliquid, perspiciatis quae vitae cumque quisquam molestiae consequatur nemo fuga aliquam quam veniam dicta natus praesentium deleniti voluptatibus? Vero, perspiciatis magni magnam suscipit hic, quam vel facere, repellendus necessitatibus ab atque odio itaque soluta aliquid id at numquam nam tempora!
+
+Природа
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis excepturi voluptatum consequuntur qui repellat nesciunt accusamus quod quis distinctio! Distinctio quos officia unde dolor. Cumque sapiente dolore vero, natus minus fugiat nostrum nemo autem itaque ducimus rem eum corporis, laboriosam animi asperiores sit nam consectetur veniam enim fuga alias incidunt laborum aliquam? Consequuntur incidunt, quae dolor molestias voluptate excepturi ea quis nemo doloribus! Aut ipsa molestias odio maiores esse officia.
+
+
+
+Для подорожі на авто
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo expedita ipsam alias inventore deserunt quas similique reprehenderit, reiciendis minima soluta autem deleniti nam rerum sapiente facilis! Ad tenetur beatae iusto aliquam sit quia voluptatum optio ratione ipsa. Iste, eius nemo cupiditate maxime, ipsam libero eligendi totam ea maiores facere voluptatibus accusamus hic, quo reiciendis molestias iure blanditiis cumque! Dolores esse aliquid, perspiciatis quae vitae cumque quisquam molestiae consequatur nemo fuga aliquam quam veniam dicta natus praesentium deleniti voluptatibus? Vero, perspiciatis magni magnam suscipit hic, quam vel facere, repellendus necessitatibus ab atque odio itaque soluta aliquid id at numquam nam tempora!
+
+Інформація
+Підпишіться на нашу розсилку, щоб отримати спеціальні речі, і отримайте знижку 10% на наступне замовлення.
+
+TERMS AND CONDITIONS
+
+CENCELLATION POLICY
+
+PRIVACY POLICY
+
+
+
+
+    font-family: 'Exo 2', sans-serif;
+
+
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+
+
+
+
+Font Awesome
+            <script src="https://kit.fontawesome.com/38f75088e1.js" crossorigin="anonymous"></script>
+
+
+Колір підвалу:
+    background: #5B6460;
+
+

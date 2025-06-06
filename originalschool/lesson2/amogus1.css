@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    font-family: 'Inter', serif;
+    font-weight: 900;
+}
+
+p{
+    text-align: justify;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+}

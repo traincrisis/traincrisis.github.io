@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: rgb(116, 33, 0);
+    font-family: 'Playfair Display', serif;
+   }
+   .quote {
+    font-weight: 400;
+    font-size: 17px;
+    font-family: 'Merriweather', serif;
+   }
+   .author {
+    font-style: italic;
+    text-indent: 60px;
+    font-size: 17px;
+    color: chocolate;
+    letter-spacing: 900;
+    text-decoration: underline;
+   }

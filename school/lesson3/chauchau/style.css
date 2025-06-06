@@ -1,0 +1,55 @@
+h1{
+    text-transform: uppercase;
+    font-family: "Comfortaa", sans-serif;
+    text-align: center;
+    color: navy;
+}
+
+p{
+    font-family: "Inter", sans-serif;
+}
+
+h2{
+    font-family: "Inter", sans-serif;
+    color: royalblue;
+    text-decoration: overline;
+    text-align: center;
+
+}
+
+.chau-1{
+    width: 220px;
+    float: left;
+    margin: 10px;
+}
+
+.chau-2{
+    width: 220px;
+    float: right;
+    margin: 10px;
+}
+
+.chau-3{
+    width: 220px;
+    float: left;
+    margin: 10px;
+}
+
+.chau-4{
+    width: 220px;
+    float: right;
+    margin: 10px;
+}
+
+.chau-5{
+    width: 220px;
+    float: left;
+    margin: 10px;
+}
+
+.chau-6{
+    width: 220px;
+    float: right;
+    margin: 10px;
+}
+

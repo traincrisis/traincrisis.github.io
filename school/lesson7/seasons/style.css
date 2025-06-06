@@ -1,0 +1,28 @@
+body{
+    background-image: url(152.gif);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-ton: 10%;
+}
+
+.bg{
+    background: gainsboro;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img{
+    width: 450px;
+    margin: 10px;
+}
+
+h1{
+    text-decoration: underline;
+    font-family: "Philosopher", serif;
+
+}
+
+p,li{
+    font-family: "Philosopher", serif;
+}

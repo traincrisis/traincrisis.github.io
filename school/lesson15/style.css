@@ -1,0 +1,63 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.violet{
+    background: linear-gradient(to right bottom, #483d5f, #2a2240);
+    padding: 100px;
+    color: aliceblue;
+    display: flex;
+    flex: wrap;
+}
+
+button{
+   background-color: #ed9619;
+   font-weight: 900;
+   border-radius: 20px;
+   padding: 10px 20px;
+   text-align: center;
+   border: 0;
+   color: white;
+}
+
+.white{
+    background-color: #efecf4;
+}
+ 
+.dark{
+    background-color: #201b2d;
+}
+
+img{
+    width: 100%;
+}
+
+.logo{
+    width: 80px;
+    margin-bottom: 80px;
+}
+.left, .right{
+    width: 300px;
+    flex-grow: 1;
+}
+
+/* Стилі для великих екранів (дисплей максимум 1199 пікселів) */
+@media (max-width: 1199px) {
+    .violet{
+        padding: 90px;
+    }
+}
+
+/* Стилі для маленьких екранів (дисплей максимум 767 пікселів) */
+@media (max-width: 991px) {  
+    .violet{
+        padding: 60px;
+    }
+}
+
+/* Стилі для дуже маленьких екранів (дисплей максимум 575 пикселів) */
+@media (max-width: 575px) {
+    .violet{
+        padding: 30px;
+    }
+}

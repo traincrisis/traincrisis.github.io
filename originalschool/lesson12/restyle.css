@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+}
+.wrapper {
+    width: 100%;
+    height: 100vh;
+    background-color: #D04746;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .pulse {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    color: gray;
+    background-color: white;
+    border-radius: 50%;
+    animation: radial-pulse 1s infinite;
+    text-decoration: underline;
+  }
+
+  .pulse:hover{
+    animation: none;
+    font-weight: 900;
+    text-decoration: none;
+    transform: scale(1.1);
+    transition: all 1s;
+    font-size: 1.2rem;
+    color: black;
+    box-shadow: 0 0 40px rgb(0, 0, 0);
+
+  }
+ 
+@keyframes radial-pulse {
+    0% {
+      box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.5);
+    }
+
+    100% {
+      box-shadow: 0 0 0 40px rgba(0, 0, 0, 0);
+    }
+  }

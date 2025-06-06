@@ -1,0 +1,89 @@
+.header{
+   background-color: rgb(144, 220, 158);
+   padding: 20px;
+   padding-ton: urmompx;
+}
+
+.logo{
+   width: 80px;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.content{
+    background-color: #7fffd4;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    background-color: #54d9c9;
+    width: 230px;
+    font-family: "Raleway", sans-serif;
+    margin: 20px;
+    margin-ton: urmompx;
+    padding: 15px;
+    padding-ton: urmompx;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.card:hover{
+    background-color: #00e3dd;
+    box-shadow: 5px 5px 10px slategrey;
+}
+
+img{
+    width: 100%;
+}
+
+.fa-instagram{
+    font-size: 30px;
+    color: orange;
+}
+
+.fa-instagram:hover{
+    font-size: 30px;
+    color: palevioletred;
+}
+
+.fa-facebook{
+    font-size: 30px;
+    color: orange;
+}
+
+.fa-facebook:hover{
+    font-size: 30px;
+    color: palevioletred;
+}
+
+.fa-twitter{
+    font-size: 30px;
+    color: orange;
+}
+
+.fa-twitter:hover{
+    font-size: 30px;
+    color: palevioletred;
+}
+
+.fa-tiktok{
+    font-size: 30px;
+    color: orange;
+}
+
+.fa-tiktok:hover{
+    font-size: 30px;
+    color: palevioletred;
+}
+footer{
+    background-color: rgb(56, 62, 57);
+    padding: 20px;
+}
+body{
+    margin: 0;
+}

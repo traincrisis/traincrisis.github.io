@@ -1,0 +1,49 @@
+body{
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    background-color: rgb(170, 154, 255);
+}
+
+h2{
+    border-bottom: 1px solid black;
+}
+
+html, body{
+    scroll-behavior: smooth;
+}
+
+.menu{
+    border: 1px solid black;
+    width: 300px;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(150, 129, 255);
+}
+
+.menu p{
+    margin: 5px 15px;
+}
+
+.right{
+    float: right;
+    background-color: #cfb5d8;
+    padding: 15px;
+    border: 1px solid black;
+    margin: 15px;
+    width: 270px;
+}
+
+.left{
+    float: left;
+    background-color: #cfb5d8;
+    padding: 15px;
+    border: 1px solid black;
+    margin: 15px;
+}
+
+img{
+    width: 250px;
+}
+
+asas{
+    padding-ton: 0px;
+}

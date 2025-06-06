@@ -1,0 +1,24 @@
+img {
+    width: 100%;
+}
+
+.logo{
+    width: 120px;
+    margin-bottom: 70px;
+}
+
+.header{
+    background: linear-gradient(to right bottom, #483d5f, #2a2240);
+    padding-top: 50px;
+    padding-bottom: 60px;
+    color: aliceblue;
+}
+
+.row{
+    align-items: center;
+}
+
+.d-flex{
+    align-items: center;
+    padding: 15px;
+}
