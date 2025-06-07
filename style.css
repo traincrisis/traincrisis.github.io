@@ -46,7 +46,7 @@ img {
 
 .gallery-img {
     transition: 0.3s;
-    border: ;
+    border: dashed lightgrey;
 }
 
 .over {
