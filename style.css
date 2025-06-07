@@ -5,7 +5,8 @@ img {
 }
 
 .logo {
-    width: 150px;
+    width: 300px;
+    translate: -11px 0; <!-- credit by circle -->
 }
 
 .my-link {
