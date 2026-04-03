@@ -1,54 +1,51 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-
-img {
-    width: 100%;
+body{
+    margin: 0;
+    background-color: cadetblue;
 }
-
-.logo {
-    width: 10%;
+.to-do-list{
+    margin: 30px;
+    background-color: #c5e5e5;
+    padding: 20px;
+    border-radius: 20px;
 }
-
-.my-link {
-    align-items: center;
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #494949;
 }
-
-.my-link-item {
-    margin-left: 7px;
+.note-input{
+    outline: none;
+    padding: 7px;
+    width: 80%;
+    font-size: 1.1em;
 }
-
-.my-link-item a,
-.my-link-item.disabled {
-    font-family: "Roboto Condensed", sans-serif;
+.note-input:focus::placeholder {
+    font-weight: 900;
 }
-
-.my-link-item a {
-    text-decoration: none;
+.btn-add{
+    border: 3px inset cadetblue;
+    background-color: transparent;
+    padding: 5px 17px;
+    border-radius: 10px;
 }
-
-.my-link-item.disabled {
-    color: grey;
+.btn-add:active{
+    background-color: cadetblue;
+    color: aliceblue;
 }
-
-.my-link-item.my-0 {}
-
-.arrow-link {
-    font-size: 1.2em;
+.list-notes{
+    padding-left: 0;
+    list-style-type: none;
 }
-
-.return-btn {
-    padding-top: 5px;
-    padding-bottom: 5px;
+.list-note-item{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
-.gallery-img:hover {
-    transform: scale(1.5);
-}
-
-.gallery-img {
-    transition: 0.3s;
-    border: dashed lightgrey;
-}
-
-.over {
-    overflow: hidden;
+.btn-del {
+    background-color: #576868;
+    color: aliceblue;
+    border: none;
+    padding: 10px;
+    font-weight: 900;
+    border-radius: 5px;
 }
